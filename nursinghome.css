@@ -1,0 +1,118 @@
+        body {
+            overflow-x: hidden;
+        }
+        
+        .navbar-dark {
+            background-color: #512DA8;
+        }
+        
+        .title-content {
+            text-align: center;
+            padding-top: 3%;
+        }
+        
+        .title-content h1 {
+            font-size: 3rem;
+            color: #512DA8;
+        }
+        
+        .carousel {
+            background: #512DA8;
+            margin-bottom: 3%;
+        }
+        
+        .carousel-item {
+            height: 200px;
+        }
+        
+        .contact-info {
+            text-align: center;
+            padding-top: 3%;
+        }
+        
+        .card {
+            width: 70%;
+            margin-left: 20%;
+        }
+        
+        .card-body {
+            margin-top: 3%;
+            padding: 10%;
+        }
+        
+        .card-heading {
+            font-size: 2rem;
+            background-color: #512DA8;
+            color: white;
+        }
+        
+        .feature-section {
+            margin-top: 2%;
+            text-align: center;
+            padding: 4%;
+        }
+        
+        .feature-content:hover {
+            background-color: #512DA8;
+            color: white;
+        }
+        
+        .feedback-content {
+            width: 100%;
+            margin-left: 10%;
+        }
+        
+        .feedback-content h3 {
+            color: #512DA8;
+            text-align: center;
+        }
+        
+        .contact-heading h3 {
+            text-align: center;
+            color: #512DA8;
+        }
+        
+        .contact-heading p {
+            text-align: center;
+            font-size: 1.5rem;
+        }
+        
+        .contactform {
+            width: 50%;
+            margin: auto;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            font-size: 1rem;
+        }
+        
+        .contactus {
+            margin-bottom: 10px;
+            padding: 10px;
+        }
+        
+        .contactform input[type="submit"] {
+            background-color: #512DA8;
+            border-radius: 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #fff;
+            width: 20%;
+            margin-left: 40%;
+        }
+        
+        .contactform input[type="submit"]:hover {
+            border-color: #512DA8;
+            background-color: #fff;
+            border-radius: 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #512DA8;
+            margin-left: 300px;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+        }
+        
+        footer {
+            background-color: #512DA8;
+            text-align: center;
+            color: white;
+        }
