@@ -116,8 +116,28 @@
             text-align: center;
             color: white;
         }
-@media screen and (max-width:600px) {
+        @media screen and (max-width:600px) {
             .carousel-item {
                 height: 300px;
+            }
+                .contactform input[type="submit"] {
+                background-color: #512DA8;
+                border-radius: 20px;
+                font-size: 1.2rem;
+                font-weight: bold;
+                color: #fff;
+                width: 80%;
+                margin-left: 10%;
+            }
+            .contactform input[type="submit"]:hover {
+                border-color: #512DA8;
+                background-color: #fff;
+                border-radius: 20px;
+                font-size: 1.2rem;
+                font-weight: bold;
+                color: #512DA8;
+                width: 80%;
+                margin-left: 10%;
+                box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
             }
         }
